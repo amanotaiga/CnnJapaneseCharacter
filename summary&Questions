@@ -1,0 +1,3 @@
+2016.10.24
+iF = Image.frombytes('F', (128, 127), r[14], 'bit', 4)
+can't understand what does r[14] means?
